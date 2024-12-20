@@ -23,7 +23,7 @@ public class App {
         int choix;
 
         do {
-            System.out.println("\n--- Menu ---");
+            System.out.println("\n Menu ");
             System.out.println("1. Créer un cours");
             System.out.println("2. Créer un niveau");
             System.out.println("3. Créer une classe");
